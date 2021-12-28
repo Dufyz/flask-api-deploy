@@ -7,7 +7,7 @@ from flask import Flask, request, jsonify
 from textblob import TextBlob
 
 cols = ['tamanho', 'ano', 'garagem']
-model = pickle.load(open('models/model.sav', 'rb'))
+model = pickle.load(open(r"G:\Meu Drive\My Repositories\flask-api-deploy\models\\model.sav", 'rb'))
 
 app = Flask(__name__)
 app.config['BASIC_AUTH_USERNAME'] = 'root'
