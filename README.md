@@ -22,3 +22,9 @@ To use this API you will need to pay attention to some steps.
 - 2 -  How to use the differents ways of the Api
   - 2.1 - First way to use the API: ip_url/polarity/sentece to be analysed
   - 2.2 - Second way to use the API: you will need to use postman app to send a jsdon data type to be analysed for the IA model
+
+## ⚠️ Atention
+ 
+- That's a personal project with no proposal of be serious
+- Make sure that you are following all the steps of #How to use
+
